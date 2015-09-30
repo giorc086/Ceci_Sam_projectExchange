@@ -1,0 +1,71 @@
+body{
+
+	/*background-color: #FFF6EC;warm weather, above 60F 
+	background-color: #F3FFFF; cold weather, below 59F
+	*/
+}
+
+p{
+	padding-left: 180px;
+	padding-right: 200px;
+	font-family: "Gotham", sans-serif;
+	font-size: 20px;
+	font-weight: 200;
+	text-indent: 50px;
+	text-align: justify;
+	color: black;
+	line-height: 30px;
+}
+
+#thin{
+	font-weight: 100;
+}
+
+/*#colorBlue{
+	color: #004F61;
+}*/
+
+#foxFont{
+	font-family: "Gabriola", sans-serif;
+	font-size: 28px;
+	
+}
+
+#wolfFont{
+	font-family: "Bodoni 72", sans-serif;
+	font-size: 22px;
+	font-weight: 550;
+}
+
+#smallFont{
+	font-size: 16px;
+	font-style: italic;
+}
+
+#long{
+	letter-spacing: 5px;
+	font-style: italic;
+}
+
+#glutton{
+	font-family: "Matura MT Script Capitals", sans-serif;
+	font-size: 26px;
+	font-weight: 300;
+}
+
+#together{
+	letter-spacing: -2px;
+}
+
+#size{
+	font-size: 30px;
+	font-weight: 400;
+}
+
+/*#foxSpeech{
+	color: #EF5411;
+}
+
+#wolfSpeech{
+	color: #41677F;
+}*/
